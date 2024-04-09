@@ -20,7 +20,6 @@ public class aula5 {
       cont = cont + 1;
       
     }
-
     media = soma / 5;
 
     if (media >= 7) {
